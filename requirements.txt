@@ -1,8 +1,9 @@
 loguru
 mkdocs
+pandas
 pip
 python-dotenv
 ruff
 tqdm
-typer
+click
 -e .

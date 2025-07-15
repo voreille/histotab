@@ -1,0 +1,125 @@
+Study ID
+Patient ID
+Sample ID
+Diagnosis Age
+Cancer Type
+Cancer Type Detailed
+Ethnicity Category
+Mutation Count
+Oncotree Code
+Progress Free Survival (Months)
+Number of Samples Per Patient
+Sex
+Person Cigarette Smoking History Pack Year Value
+Somatic Status
+TMB (nonsynonymous)
+KRAS Mutation
+American Joint Committee on Cancer Publication Version Type
+Biopsy Site
+Disease Free (Months)
+Disease Free Status
+Disease Type
+Morphology
+Overall Survival (Months)
+Overall Survival Status
+Other Patient ID
+Other Sample ID
+AJCC Pathologic M-Stage
+AJCC Pathologic N-Stage
+AJCC Pathologic Stage
+AJCC Pathologic T-Stage
+Primary Diagnosis
+Patient Primary Tumor Site
+Prior Malignancy
+Project Identifier
+Project Name
+Project State
+Race Category
+Sample Type
+Years Smoked
+Patient's Vital Status
+Year of Death
+Year of Diagnosis
+Fraction Genome Altered
+Neoplasm Histologic Type Name
+Sample type id
+American Joint Committee on Cancer Metastasis Stage Code
+Neoplasm Disease Lymph Node Stage American Joint Committee on Cancer Code
+Neoplasm Disease Stage American Joint Committee on Cancer Code
+American Joint Committee on Cancer Tumor Stage Code
+ALK Analysis Type
+ALK Translocation Status
+Carbon monoxide diffusion dlco
+Days to Sample Collection.
+Last Alive Less Initial Pathologic Diagnosis Date Calculated Day Value
+Disease code
+Performance Status
+Fev1 fvc ratio postbroncholiator
+Fev1 fvc ratio prebroncholiator
+Fev1 percent ref postbroncholiator
+Fev1 percent ref prebroncholiator
+Form completion date
+Neoadjuvant Therapy Type Administered Prior To Resection Text
+Prior Cancer Diagnosis Occurence
+ICD-10 Classification
+International Classification of Diseases for Oncology, Third Edition ICD-O-3 Histology Code
+International Classification of Diseases for Oncology, Third Edition ICD-O-3 Site Code
+Informed consent verified
+Year Cancer Initial Diagnosis
+Is FFPE
+Karnofsky Performance Score
+Kras gene analysis indicator
+Kras mutation identified type
+Location lung parenchyma
+Longest Dimension
+Mutation Status
+Mutation Type
+New Neoplasm Event Post Initial Therapy Indicator
+Oct embedded
+Pathology Report File Name
+Pathology report uuid
+Performance Status Assessment Timepoint Category
+Primary Other Site of Disease Name
+Project code
+Tissue Prospective Collection Indicator
+Pulmonary function test indicator
+Did patient start adjuvant postoperative radiotherapy?
+Surgical Margin Resection Status
+Tissue Retrospective Collection Indicator
+Sample Initial Weight
+Shortest Dimension
+Started Smoking Year
+Stopped Smoking Year
+Specimen Second Longest Dimension
+Adjuvant Postoperative Targeted Therapy Administered Indicator
+Tissue Source Site
+Patient Smoking History Category
+Primary Therapy Outcome Success Type
+Tumor Site
+Person Neoplasm Status
+Vial number
+Prior Treatment
+Aneuploidy Score
+Buffa Hypoxia Score
+TCGA PanCanAtlas Cancer Type Acronym
+Last Communication Contact from Initial Pathologic Diagnosis Date
+Birth from Initial Pathologic Diagnosis Date
+Months of disease-specific survival
+Disease-specific Survival status
+Genetic Ancestry Label
+In PanCan Pathway Analysis
+MSI MANTIS Score
+MSIsensor Score
+Person Neoplasm Cancer Status
+Progression Free Status
+Prior Diagnosis
+Radiation Therapy
+Ragnum Hypoxia Score
+Subtype
+Tumor Break Load
+Tissue Prospective Collection Indicator.1
+Tissue Retrospective Collection Indicator.1
+Tissue Source Site Code
+Tumor Disease Anatomic Site
+Tumor Type
+Winter Hypoxia Score

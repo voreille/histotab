@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug cli_format_tcga_tab.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/histotab/data/cli_format_tcga_tab.py",
+            "args": [
+                "${workspaceFolder}/data/raw/TCGA_LUAD/luad_tcga_pan_can_atlas_2018/data_clinical_patient.txt",
+                "${workspaceFolder}/data/raw/TCGA_LUAD/luad_tcga_firehose_legacy/data_clinical_patient.txt",
+                "${workspaceFolder}/data/raw/TCGA_LUAD/luad_tcga_gdc/data_clinical_patient.txt",
+                "${workspaceFolder}/data/raw/TCGA_LUAD/TCGA_LUAD_PanCancer_gene_oncoprint.tsv",
+                "${workspaceFolder}/data/processed/tabular_data/tcga_luad_pancancer_combined_clinical_genes_cli.csv",
+                "--morphology-col-pancancer",
+                "ICD_O_3_HISTOLOGY",
+                "--morphology-col-legacy",
+                "ICD_O_3_HISTOLOGY",
+                "--morphology-col-gdc",
+                "MORPHOLOGY"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
