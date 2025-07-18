@@ -1,6 +1,6 @@
+Sample ID
 Study ID
 Patient ID
-Sample ID
 Diagnosis Age
 Cancer Type
 Cancer Type Detailed
